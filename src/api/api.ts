@@ -4,7 +4,7 @@ import { serializeForm } from '../utils/utils';
 
 export class API {
 
-    private baseUrl = 'https://app.intima.ai/api/v2';
+    private baseUrl = 'http://app.pje-robot-web.test/api/v2';
 
     private apiSecretKey: string;
 
